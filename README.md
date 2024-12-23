@@ -14,4 +14,41 @@ This project is a web application designed to deliver an intuitive and responsiv
 - **Styling**: Utilizes CSS frameworks and custom styles for responsive design.
 - **Icons**: Includes a set of vector icons for visual enhancement.
 
-## Project Structure
+## Setup Instructions
+
+### Prerequisites
+Ensure the following tools are installed:
+- Node.js
+- npm or yarn
+
+### Steps to Run the Project
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd project-root
+3. **Start the Development Server**:
+   ```bash
+   npm run dev
+
+## Responsive Design
+The application is designed to adapt seamlessly to various screen sizes, ensuring usability on mobile, tablet, and desktop devices.
+
+## Future Enhancements
+- Add support for backend integration.
+- Implement advanced filtering and sorting features.
+- Introduce user authentication and role management.
+- Optimize performance for larger datasets.
+
+## License
+This project is open-source and available under the MIT License.
+
+## Contributions
+Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or new features.
+
+## Contact
+For questions or collaboration, please reach out via email or through the repository's issue tracker.
+
+
+
