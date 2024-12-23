@@ -31,6 +31,12 @@ Ensure the following tools are installed:
 3. **Start the Development Server**:
    ```bash
    npm run dev
+## Images
+1. **Landing Page (http://localhost:5173/)**
+![image](https://github.com/user-attachments/assets/6996a116-e3a4-4776-ba9f-aba162ecb651)
+
+2. **Repository Page (http://localhost:5173/repository)**
+![image](https://github.com/user-attachments/assets/6446add4-0924-4f10-adfd-236ce98782de)
 
 ## Responsive Design
 The application is designed to adapt seamlessly to various screen sizes, ensuring usability on mobile, tablet, and desktop devices.
